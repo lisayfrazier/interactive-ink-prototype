@@ -1,3 +1,5 @@
+![Interactive Ink Banner](https://www.butterflyperfect.com/path-to-your-image.png)
+
 # Interactive Ink™ Prototype
 
 This is a simple Python demonstration of my **patent-pending educational software concept**, *Interactive Ink™*.  
