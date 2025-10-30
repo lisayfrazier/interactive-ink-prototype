@@ -1,4 +1,6 @@
 ![Interactive Ink Banner](https://www.butterflyperfect.com/path-to-your-image.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed6b45b5-d3a3-49b1-ae59-ef00619cdd52" />
+
 
 # Interactive Ink™ Prototype
 
