@@ -17,3 +17,4 @@ The goal of Interactive Ink™ is to make reading and learning more engaging for
 
 ##  Vision
 This early concept represents how Interactive Ink™ will evolve into an AI-powered digital platform that encourages learning through creativity and faith-based interaction.
+https://www.lisayfrazier.com/
