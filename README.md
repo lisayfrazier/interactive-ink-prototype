@@ -1,4 +1,4 @@
-[<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b596d7ad-6b9d-416e-8e82-10127358b6d4" />](https://github.com/lisayfrazier/interactive-ink-prototype/blob/main/Interactive%20Learning%20with%20Butterfly%20Perfect.png)
+https://github.com/lisayfrazier/interactive-ink-prototype/commit/e177d369575ef78d8690c3a6a99b99cf1d25bee8
 
 
 
