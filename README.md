@@ -1,4 +1,5 @@
-https://github.com/lisayfrazier/interactive-ink-prototype/commit/e177d369575ef78d8690c3a6a99b99cf1d25bee8
+![Interactive Ink banner](https://raw.githubusercontent.com/lisayfrazier/interactive-ink-prototype/main/Interactive%20Learning%20with%20Butterfly%20Perfect.png)
+
 
 
 
